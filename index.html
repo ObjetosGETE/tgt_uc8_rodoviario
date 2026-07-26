@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HQ - Viagem a Porto Sereno</title>
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/animate.min.css" />
+  <link rel="stylesheet" href="assets/css/pace-theme-barber-shop.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+  <div class="tela-landscape">
+    <img src="assets/img/vire.gif" alt="vire o celular para o modo paisagem" />
+    <p>Por favor, use o modo paisagem para acessar este conteúdo.</p>
+  </div>
+  <div class="wrapper">
+    <div class="loader">
+      <p>Carregando...</p>
+    </div>
+    <main>
+      <section class="hq-ui">
+        <div class="tela-iniciar">
+          <img class="logo" src="assets/img/logo-senac.png" alt="logo" />
+          <img class="title" src="assets/cenas/Cena_01_CAPA/Lettering.png" alt="titulo" />
+          <div class="content">
+            <button class="btn btn-iniciar">Iniciar</button>
+          </div>
+        </div>
+        <footer>
+          <nav class="navigation">
+            <div class="navbar-collapse collapse collapse-horizontal" id="navbarSupportedContent">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <!-- Cena 1 -->
+                </li>
+              </ul>
+            </div>
+
+            <button class="navbar-toggler collapsed btn" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+              aria-label="Toggle navigation">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+                <!--!Font Awesome Free v7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.-->
+                <path fill="white"
+                  d="M96 160C96 142.3 110.3 128 128 128L512 128C529.7 128 544 142.3 544 160C544 177.7 529.7 192 512 192L128 192C110.3 192 96 177.7 96 160zM96 320C96 302.3 110.3 288 128 288L512 288C529.7 288 544 302.3 544 320C544 337.7 529.7 352 512 352L128 352C110.3 352 96 337.7 96 320zM544 480C544 497.7 529.7 512 512 512L128 512C110.3 512 96 497.7 96 480C96 462.3 110.3 448 128 448L512 448C529.7 448 544 462.3 544 480z" />
+              </svg>
+            </button>
+          </nav>
+
+          <nav class="controls">
+            <button class="btn btn-prev">Voltar</button>
+            <div class="progress-bar">
+              <div class="progress"></div>
+            </div>
+            <button class="btn btn-next">Avançar</button>
+          </nav>
+          <button class="btn btn-fullscreen">
+            <img src="assets/img/expand.svg" alt="Full screen" />
+          </button>
+        </footer>
+      </section>
+      <div class="cena">
+        <section class="background"></section>
+
+        <section class="personagens"></section>
+
+        <section class="texto"></section>
+
+        <section class="interativo"></section>
+      </div>
+    </main>
+  </div>
+
+  <!-- Modal para incluir no JS -->
+  <div class="modal fade" id="modal-conferencia-veiculo" tabindex="-1" aria-labelledby="modalMsgLabel"
+    aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="modalMsgLabel">Conferência concluída</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>As verificações foram concluídas e o veículo está pronto para a viagem.</p>
+          <p>Checklist do veículo:</p>
+          <p>
+            <img src="assets/img/circle-check.svg" /> Cintos de segurança<br>
+            <img src="assets/img/circle-check.svg" /> Ar-condicionado<br>
+            <img src="assets/img/circle-check.svg" /> Sistema de áudio e microfone<br>
+            <img src="assets/img/circle-check.svg" /> Monitores de televisão<br>
+            <img src="assets/img/circle-check.svg" /> DVD<br>
+            <img src="assets/img/circle-check.svg" /> Limpeza do banheiro<br>
+            <img src="assets/img/circle-check.svg" /> Descarga<br>
+            <img src="assets/img/circle-check.svg" /> Papel higiênico<br>
+            <img src="assets/img/circle-check.svg" /> Papel-toalha<br>
+            <img src="assets/img/circle-check.svg" /> Serviço de bordo<br>
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/js/pace.min.js"></script>
+  <script src="assets/js/jquery-3.7.1.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/script.js"></script>
+  <script>
+    Pace.on("hide", function () {
+      $(".loader").fadeOut(1500);
+    });
+  </script>
+</body>
+
+</html>

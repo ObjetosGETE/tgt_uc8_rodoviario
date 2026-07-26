@@ -1,0 +1,559 @@
+{
+  "qtdCenas": 49,
+  "cenas": [
+    {
+      "id": 1,
+      "monotexto": true,
+      "personagemUnico": true,
+      "pasta": "Cena_02",
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_01.png",
+        "Fala_02.png",
+        "Fala_03.png"
+      ],
+      "personagens": [
+        "Ana_01.png",
+        "Ana_02.png"
+      ]
+    },
+    {
+      "id": 2,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 3,
+      "monotexto": true,
+      "personagemUnico": true,
+      "pasta": "Cena_04",
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_01.png",
+        "Fala_02.png",
+        "Fala_03.png",
+        "Fala_04.png"
+      ],
+      "personagens": [
+        "Ana_01.png",
+        "Ana_02.png"
+      ]
+    },
+    {
+      "id": 4,
+      "interacao": true,
+      "cenaInterativa": 1,
+      "pasta": "Cena_11",
+      "background": "Fundo_Desfoque.png",
+      "texto": [
+        ""
+      ],
+      "personagens": [
+        ""
+      ]
+    },
+    {
+      "id": 5,
+      "pasta": "Cena_07",
+      "monotexto": true,
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_01.png",
+        "Fala_02.png"
+      ],
+      "personagens": [
+        "Ana_01.png",
+        "Ana_02.png"
+      ]
+    },
+    {
+      "id": 6,
+      "pasta": "Cena_08",
+      "cenaInterativa": 2,
+      "background": "Fundo_CelularConversa.png",
+      "texto": [
+        "Cabecalho_App_Conversa.png",
+        "conversa_01.png",
+        "conversa_02.png",
+        "conversa_03.png",
+        "conversa_04.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 7,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 8,
+      "pasta": "Cena_10",
+      "background": "Fundo.png",
+      "texto": [
+        "Narrador.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 9,
+      "pasta": "Cena_11",
+      "background": "Fundo.png",
+      "texto": [
+        "fala.png"
+      ],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 10,
+      "pasta": "Cena_11",
+      "background": "Fundo.png",
+      "texto": [
+        "fala02.png"
+      ],
+      "personagens": [
+        "personagens.png"
+      ]
+    },
+    {
+      "id": 11,
+      "monotexto": true,
+      "cenaInterativa": 3,
+      "pasta": "Cena_12",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": []
+    },
+    {
+      "id": 12,
+      "pasta": "Cena_16",
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_01.png",
+        "Fala_02.png"
+      ],
+      "personagens": [
+        "Personagens.png"
+      ]
+    },
+    {
+      "id": 13,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 14,
+      "pasta": "Cena_17",
+      "background": "Fundo_Desfoque.png",
+      "texto": [
+        "Fala_01.png"
+      ],
+      "personagens": [
+        "Ana_personagem.png"
+      ]
+    },
+    {
+      "id": 15,
+      "monotexto": true,
+      "cenaInterativa": 4,
+      "pasta": "Cena_18",
+      "background": "Fundo_Interna_Bus.png",
+      "texto": [],
+      "personagens": [],
+      "qtdBaloes": 6,
+      "modal_saida": "#modal-conferencia-veiculo",
+      "conteudoBaloes": [
+        "Lembre-se de checar o funcionamento dos equipamentos de segurança do veículo, como os cintos de segurança.",
+        "Certifique-se de que o ambiente dentro do veículo esteja devidamente higienizado.",
+        "É importante que o sistema para comunicação com os passageiros esteja funcionando.",
+        "O banheiro de veículo deve estar limpo e funcional. Fique atento à quantidade de papel higiênico e de papel-toalha, e verifique se a descarga está funcionando.",
+        "Arrumar serviço de bordo é essencial para garantir uma boa experiência aos passageiros, além de contribuir para a segurança e conforto durante a viagem.",
+        "Verifique se o ar condicionado está funcionando corretamente."
+      ]
+    },
+    {
+      "id": 16,
+      "pasta": "Cena_19",
+      "background": "Fundo.png",
+      "texto": [
+        "fala_Ana.png",
+        "fala_joao.png"
+      ],
+      "personagens": [
+        "Ana.png",
+        "joao_motora.png"
+      ]
+    },
+    {
+      "id": 17,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 18,
+      "pasta": "Cena_20",
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_Ana.png",
+        "Fala_Turistas.png",
+        "Fala_Ana02.png"
+      ],
+      "personagens": [
+        "personagens.png"
+      ]
+    },
+    {
+      "id": 19,
+      "monotexto": true,
+      "pasta": "Cena_21_23",
+      "background": "Fundo_Desfoque.png",
+      "texto": [
+        "fala.png"
+      ],
+      "personagens": [
+        "Ana.png"
+      ]
+    },
+    {
+      "id": 20,
+      "pasta": "Cena_21_23",
+      "monotexto": true,
+      "cenaInterativa": 5,
+      "background": "Fundo_Desfoque.png",
+      "texto": [],
+      "personagens": []
+    },
+    {
+      "id": 21,
+      "monotexto": true,
+      "pasta": "Cena_25",
+      "background": "Fundo_Interna_Bus.png",
+      "texto": [
+        "Fala_1.png",
+        "Fala_2.png",
+        "Fala_3.png",
+        "Fala_4.png",
+        "Fala_5.png",
+        "Fala_6.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 22,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 23,
+      "pasta": "Cena_28",
+      "background": "Fundo_Interna_Bus.png",
+      "texto": [
+        "fala_Ana.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 24,
+      "pasta": "Cena_29",
+      "background": "fundo.png",
+      "texto": [
+        "texto.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 25,
+      "pasta": "Cena_31",
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_Ana.png"
+      ],
+      "personagens": [
+        "Personagem_Ana.png"
+      ]
+    },
+    {
+      "id": 26,
+      "pasta": "Cena_31",
+      "monotexto": true,
+      "cenaInterativa": 6,
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": []
+    },
+    {
+      "id": 27,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 28,
+      "pasta": "Cena_31",
+      "monotexto": true,
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_Ana_Final.png",
+        "Fala_Ana_Instrucao_Caminho.png"
+      ],
+      "personagens": [
+        "Personagem_Ana.png"
+      ]
+    },
+    {
+      "id": 29,
+      "cenaInterativa": 7,
+      "pasta": "Cena_37",
+      "background": "fundo.png",
+      "texto": [],
+      "personagens": []
+    },
+    {
+      "id": 30,
+      "pasta": "Cena_39",
+      "cenaInterativa": 8,
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Grupo_Turistas.png"
+      ]
+    },
+    {
+      "id": 31,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 32,
+      "cenaInterativa": 9,
+      "pasta": "Cena_42_43",
+      "monotexto": true,
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [],
+      "qtdBaloes": 4,
+      "conteudoBaloes": [
+        "A Igreja Nossa Senhora das Dores é a mais antiga da cidade ainda de pé e está localizada no centro histórico da cidade.",
+        "Sua construção atravessou quase 100 anos, tendo a pedra fundamental lançada in 1807 e a finalização das torres ocorrendo apenas em 1904. O templo é famoso pelo interior ricamente decorado em estilo barroco sendo tombado como patrimônio histórico nacional pelo IPHAN.",
+        "Existe uma lenda urbana que diz que a Igreja é amaldiçoada. Acusado injustamente de roubar as joias da imagem da santa, o escravizado Josino foi condenado à morte e jurou que os presentes jamais veriam a igreja de pé. Essa história permanece como um símbolo das injustiças do período escravagista.",
+        "Estatuário da Igreja:  coração de maria com 7 punhais."
+      ]
+    },
+    {
+      "id": 33,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 34,
+      "pasta": "Cena_44",
+      "background": "Fundo.png",
+      "texto": [
+        "Guia_Ana.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 35,
+      "pasta": "Cena_45_46_47_48",
+      "background": "Fundo.png",
+      "texto": [
+        "Ana_Instruções.png",
+        "Ana_Instruções_02.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 36,
+      "pasta": "Cena_45_46_47_48",
+      "cenaInterativa": 10,
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": []
+    },
+    {
+      "id": 37,
+      "selecaoCapitulos": true,
+      "pasta": "Cena_03",
+      "background": "Fundo.png",
+      "texto": [],
+      "personagens": [
+        "Ana_01.png"
+      ]
+    },
+    {
+      "id": 38,
+      "pasta": "Cena_45_46_47_48",
+      "background": "Fundo.png",
+      "texto": [
+        "Fala_FINAL_Ana.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 39,
+      "pasta": "Cena_50",
+      "background": "PasseioBarco.png",
+      "texto": [
+        "fala_Ana1.png"
+      ],
+      "personagens": [
+        "pessoas.png"
+      ]
+    },
+    {
+      "id": 40,
+      "pasta": "Cena_51",
+      "cenaInterativa": 11,
+      "monotexto": true,
+      "background": "fundo.png",
+      "texto": [],
+      "personagens": [],
+      "qtdBaloes": 5,
+      "conteudoBaloes": [
+        "No lago, é comum avistar aves como o biguá. Uma das características mais notáveis dele é a falta da glândula uropigial, que produz a substância que impermeabiliza as penas de outras aves. Isso é uma vantagem na hora da caça: ao mergulhar, suas penas se encharcam, ficando mais pesadas e retendo menos ar, o que lhe permite afundar mais rápido em busca de alimento. Para se secar após o mergulho, é comum ver o biguá com as asas abertas, estendidas ao sol.",
+        "Entre os mamíferos, destacam-se a lontra, a capivara, o mico-estrela, o gambá-de-orelha-branca e o rato-do-campo.",
+        "Ao fundo no horizonte avistamos do lado direito a cidade de Ribeirinhos, onde se estabeleceram os primeiros moradores da região em 1910.",
+        "O lago é formado pelas águas represadas do Rio Formoso, tem 48 quilômetros quadrados de área, profundidade máxima de 38 metros. Conta com algumas praias artificiais, como a 'Prainha' e o  'Piscinão do Lago'.",
+        "A vegetação do lago é bem variada, com aguapés e alface d'água flutuando em sua superfície. É importante notar que a presença de plantas e algas na água está associada ao aumento de nutrientes."
+      ]
+    },
+    {
+      "id": 41,
+      "pasta": "Cena_52",
+      "background": "fundo.png",
+      "texto": [
+        "Fala_Ana.png"
+      ],
+      "personagens": []
+    },
+    {
+      "id": 43,
+      "pasta": "Cena_55",
+      "background": "background.png",
+      "texto": [
+        "Fala_01.png"
+      ],
+      "personagens": [
+        "GuiaAna.png"
+      ]
+    },
+    {
+      "id": 44,
+      "pasta": "Cena_55",
+      "background": "background.png",
+      "texto": [
+        "Fala_02.png"
+      ],
+      "personagens": [
+        "GuiaAna.png"
+      ]
+    },
+    {
+      "id": 45,
+      "pasta": "Cena_55",
+      "background": "background.png",
+      "texto": [
+        "Fala_03.png"
+      ],
+      "personagens": [
+        "GuiaAna.png"
+      ]
+    },
+    {
+      "id": 46,
+      "pasta": "Cena_55",
+      "background": "background.png",
+      "texto": [
+        "Fala_04.png"
+      ],
+      "personagens": [
+        "GuiaAna.png"
+      ]
+    },
+    {
+      "id": 47,
+      "pasta": "Cena_55",
+      "background": "background.png",
+      "texto": [
+        "Fala_05.png"
+      ],
+      "personagens": [
+        "GuiaAna.png"
+      ]
+    },
+    {
+      "id": 48,
+      "pasta": "Cena_56",
+      "background": "background.png",
+      "texto": [
+        "bolsaEsquecida.png"
+      ],
+      "personagens": [
+        "Ana.png"
+      ]
+    },
+    {
+      "id": 49,
+      "pasta": "Cena_57",
+      "background": "background.png",
+      "texto": [
+        "EntregaBolsa.png"
+      ],
+      "personagens": [
+        "TuristasIndoEmbora.png"
+      ]
+    },
+    {
+      "id": 42,
+      "pasta": "Cena_53_54",
+      "background": "Onibus_Indo_Embora.png",
+      "texto": [
+        "Fala_Ana.png"
+      ],
+      "personagens": [
+        "Ana.png"
+      ]
+    }
+  ]
+}

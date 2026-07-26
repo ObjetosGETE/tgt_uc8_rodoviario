@@ -1,0 +1,421 @@
+{
+    "qtdCenas": 28,
+    "cenas": [
+        {
+            "id": 1,
+            "monotexto": true,
+            "pasta": "Cena_02",
+            "background": "Fundo.png",
+            "texto": [
+                "Fala_01.png",
+                "Fala_02.png",
+                "Fala_03.png"
+            ],
+            "personagens": [
+                "Ana_01.png",
+                "Ana_02.png"
+            ]
+        },
+        {
+            "id": 2,
+            "monotexto": true,
+            "pasta": "Cena_03",
+            "background": "Fundo.png",
+            "texto": [
+                "quadro_02_balao_01.png",
+                "quadro_02_balao_02.png"
+            ],
+            "personagens": [
+                "Ana_01.png",
+                "Ana_02.png"
+            ]
+        },
+        {
+            "id": 3,
+            "monotexto": true,
+            "pasta": "Cena_04",
+            "background": "Fundo.png",
+            "texto": [
+                "Fala_01.png",
+                "Fala_02.png",
+                "Fala_03.png",
+                "Fala_04.png"
+            ],
+            "personagens": [
+                "Ana_01.png",
+                "Ana_02.png"
+            ]
+        },
+        {
+            "id": 4,
+            "interacao": true,
+            "pasta": "Cena_05_6",
+            "background": "",
+            "texto": [
+                ""
+            ],
+            "personagens": [
+                ""
+            ]
+        },
+        {
+            "id": 5,
+            "pasta": "Cena_07",
+            "background": "Fundo.png",
+            "texto": [
+                "Fala_01.png",
+                "Fala_02.png"
+            ],
+            "personagens": [
+                "Ana_01.png",
+                "Ana_02.png"
+            ]
+        },
+        {
+            "id": 6,
+            "interacao": true,
+            "monotexto": true,
+            "pasta": "cena_06_Interacao",
+            "background": "quadro_06.png",
+            "texto": [
+                "quadro_06_balao_TST_01.png",
+                "quadro_06_balao_Carlos_01.png",
+                "quadro_06_balao_TST_02.png",
+                "quadro_06_balao_Carlos_02.png",
+                "quadro_06_balao_TST_03.png",
+                "quadro_06_balao_Carlos_03.png",
+                "quadro_06_balao_TST_04.png"
+            ],
+            "personagens": [
+                "quadro_06_personagem_TST_01.png",
+                "quadro_06_personagem_Carlos_01.png",
+                "quadro_06_personagem_TST_02.png",
+                "quadro_06_personagem_Carlos_03.png"
+            ],
+            "qtdBaloes": 5,
+            "conteudoBaloes": [
+                "Nesse momento, Marcelo verifica que a soldagem utilizada pelo Carlos Soldador é do tipo MIG/MAG.",
+                "Nessa soldagem são gerados fumos de manganês e monóxido de carbono. O manganês provém do arame eletrodo que fica na ponta da solda usado como liga durante esse processo. O monóxido de carbono provém da combustão incompleta que ocorre nos metais quando queimados.",
+                "O clarão forte representa radiações não ionizantes geradas durante qualquer processo de soldagem, a atividade também gera um ruído da máquina de solda, junto com o calor usado para fazer a ligação de dois materiais diferentes.",
+                "O ambiente é todo fechado, sem exaustão.",
+                "Por baixo da máscara não há outra proteção, como deveria ter."
+            ]
+        },
+        {
+            "id": 7,
+            "pasta": "cena_06B",
+            "background": "quadro_06B.png",
+            "texto": [
+                "quadro_06B_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_06B_personagens.png"
+            ]
+        },
+        {
+            "id": 8,
+            "pasta": "cena_07",
+            "background": "quadro_07.png",
+            "texto": [
+                "quadro_07_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_07_personagens.png"
+            ]
+        },
+        {
+            "id": 9,
+            "pasta": "cena_08",
+            "background": "quadro_08.png",
+            "texto": [
+                "quadro_08_balao_01.png",
+                "quadro_08_balao_02.png"
+            ],
+            "personagens": [
+                "quadro_08_personagem.png"
+            ]
+        },
+        {
+            "id": 10,
+            "monotexto": true,
+            "pasta": "cena_09_Interacao",
+            "background": "quadro_09.png",
+            "texto": [
+                "quadro_09_balao_TST_01.png",
+                "quadro_09_balao_Maria_01.png",
+                "quadro_09_balao_TST_02.png",
+                "quadro_09_balao_Maria_02.png",
+                "quadro_09_balao_TST_03.png"
+            ],
+            "personagens": [
+                "quadro_09_personagem_TST_01.png",
+                "quadro_09_personagem_Maria_01.png",
+                "quadro_09_personagem_TST_02.png",
+                "quadro_09_personagem_Maria_02.png"
+            ],
+            "qtdBaloes": 4,
+            "conteudoBaloes": [
+                "A tinta utilizada possui um solvente que é o Xileno, compostos de Cromo e 2-butanol.",
+                "Maria utiliza uma máscara e uma roupa tyvek.",
+                "O compressor gera um altíssimo ruído dentro do ambiente.",
+                "Uma cabine sem exaustão."
+            ]
+        },
+        {
+            "id": 11,
+            "pasta": "cena_09B",
+            "background": "quadro_09B.png",
+            "texto": [
+                "quadro_09B_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_09B_personagens.png"
+            ]
+        },
+        {
+            "id": 12,
+            "pasta": "cena_10",
+            "background": "quadro_10.png",
+            "texto": [
+                "quadro_10_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_10_personagens.png"
+            ]
+        },
+        {
+            "id": 13,
+            "pasta": "cena_11",
+            "background": "quadro_11.png",
+            "texto": [
+                "quadro_11_balao_01.png",
+                "quadro_11_balao_02.png"
+            ],
+            "personagens": [
+                "quadro_11_personagem.png"
+            ]
+        },
+        {
+            "id": 14,
+            "pasta": "cena_12_Interacao",
+            "monotexto": true,
+            "background": "quadro_12.png",
+            "texto": [
+                "quadro_12_balao_TST_01.png",
+                "quadro_12_balao_Juliano_01.png",
+                "quadro_12_balao_TST_02.png",
+                "quadro_12_balao_Juliano_02.png",
+                "quadro_12_balao_TST_03.png"
+            ],
+            "personagens": [
+                "quadro_12_personagem_TST_01.png",
+                "quadro_12_personagem_Juliano_01.png",
+                "quadro_12_personagem_TST_02.png",
+                "quadro_12_personagem_Juliano_03.png"
+            ],
+            "qtdBaloes": 3,
+            "conteudoBaloes": [
+                "O ruído não é tão elevado na ocasião.",
+                "A máquina faz uso de óxido de alumínio, misturado a um hidrocarboneto, gerando um pó de alumínio no ar.",
+                "A máquina politriz gera uma grande intensidade de vibração nas mãos de Juliano."
+            ]
+        },
+        {
+            "id": 15,
+            "pasta": "cena_12B",
+            "background": "quadro_12B.png",
+            "texto": [
+                "quadro_12B_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_12B_personagens.png"
+            ]
+        },
+        {
+            "id": 16,
+            "pasta": "cena_13",
+            "background": "quadro_13.png",
+            "texto": [
+                "quadro_13_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_13_personagens.png"
+            ]
+        },
+        {
+            "id": 17,
+            "pasta": "cena_14",
+            "background": "quadro_14.png",
+            "texto": [
+                "quadro_14_balao_01.png",
+                "quadro_14_balao_02.png"
+            ],
+            "personagens": [
+                "quadro_14_personagem.png"
+            ]
+        },
+        {
+            "id": 18,
+            "pasta": "cena_15_Interacao",
+            "monotexto": true,
+            "background": "quadro_15.png",
+            "texto": [
+                "quadro_15_balao_TST_01.png",
+                "quadro_15_balao_Giovani_01.png",
+                "quadro_15_balao_TST_02.png",
+                "quadro_15_balao_Giovani_02.png",
+                "quadro_15_balao_TST_03.png",
+                "quadro_15_balao_Giovani_03.png",
+                "quadro_15_balao_TST_04.png"
+            ],
+            "personagens": [
+                "quadro_15_personagem_TST_01.png",
+                "quadro_15_personagem_Giovani_01.png",
+                "quadro_15_personagem_TST_02.png",
+                "quadro_15_personagem_Giovani_02.png"
+            ],
+            "qtdBaloes": 4,
+            "conteudoBaloes": [
+                "Giovane coloca uma estopa em um produto químico que é o thinner, formado por Álcool sec-butílico (2-butanol). ",
+                "Giovane passa a estopa na peça, algumas peças que possuem ferrugem.",
+                "Giovani utiliza um ácido clorídrico para remover a ferrugem antes de aplicar o thinner para limpeza.",
+                "Está com avental e luvas, mas não usa máscara."
+            ]
+        },
+        {
+            "id": 19,
+            "pasta": "cena_15B",
+            "background": "quadro_15B.png",
+            "texto": [
+                "quadro_15B_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_15B_personagens.png"
+            ]
+        },
+        {
+            "id": 20,
+            "pasta": "cena_16",
+            "background": "quadro_16.png",
+            "texto": [
+                "quadro_16_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_16_personagens.png"
+            ]
+        },
+        {
+            "id": 21,
+            "pasta": "cena_17",
+            "background": "quadro_17.png",
+            "texto": [
+                "quadro_17_balao_01.png",
+                "quadro_17_balao_02.png"
+            ],
+            "personagens": [
+                "quadro_17_personagem.png"
+            ]
+        },
+        {
+            "id": 22,
+            "pasta": "cena_18_Interacao",
+            "monotexto": true,
+            "background": "quadro_18.png",
+            "texto": [
+                "quadro_15_balao_TST_01.png",
+                "quadro_15_balao_Isadora_01.png",
+                "quadro_15_balao_TST_02.png"
+            ],
+            "personagens": [
+                "quadro_18_personagem_TST_01.png",
+                "quadro_18_personagem_Isadora_01.png",
+                "quadro_18_personagem_TST_02.png",
+                "quadro_18_personagem_Isadora_02.png"
+            ],
+            "qtdBaloes": 4,
+            "conteudoBaloes": [
+                "Elevado o carro, há uma altura onde Isadora pode ficar embaixo do veículo. ",
+                "Um carrinho captando o óleo usado do motor.",
+                "Isadora aguarda para baixar o veículo e colocar um novo óleo no motor, realizando a troca. ",
+                "Está de luva e macacão. Não está de óculos como deveria. "
+            ]
+        },
+        {
+            "id": 23,
+            "pasta": "cena_18B",
+            "background": "quadro_18.png",
+            "texto": [
+                "quadro_18_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_18_personagem.png"
+            ]
+        },
+        {
+            "id": 24,
+            "pasta": "cena_19",
+            "background": "quadro_19.png",
+            "texto": [
+                "quadro_19_balao_01.png"
+            ],
+            "personagens": [
+                "quadro_19_personagem.png"
+            ]
+        },
+        {
+            "id": 25,
+            "pasta": "cena_20",
+            "background": "quadro_20.png",
+            "texto": [
+                "quadro_20_balao_01.png",
+                "quadro_20_balao_02.png"
+            ],
+            "personagens": [
+                "quadro_20_personagem.png"
+            ]
+        },
+        {
+            "id": 26,
+            "pasta": "cena_21_Interacao",
+            "monotexto": true,
+            "background": "quadro_21.png",
+            "texto": [
+                "quadro_21_balao_TST_01.png",
+                "quadro_21_balao_Tarcisio_01.png",
+                "quadro_21_balao_TST_02.png"
+            ],
+            "personagens": [
+                "quadro_21_personagem_TST_01.png",
+                "quadro_21_personagem_Tarcisio_01.png",
+                "quadro_21_personagem_TST_02.png",
+                "quadro_21_personagem_Tarcisio_02.png"
+            ],
+            "qtdBaloes": 2,
+            "conteudoBaloes": [
+                "A máquina faz o lixamento gerando uma trepidação em suas mãos e braços.",
+                "Utiliza uma lixa manual (ferramenta elétrica), está soltando poeira metálica, muita poeira."
+            ]
+        },
+        {
+            "id": 27,
+            "pasta": "cena_22",
+            "background": "quadro_22.png",
+            "texto": [
+                "quadro_22_balao_01.png",
+                "quadro_22_balao_02.png"
+            ],
+            "personagens": []
+        },
+        {
+            "id": 28,
+            "pasta": "cena_23",
+            "background": "quadro_23.png",
+            "texto": [
+                "quadro_23_balao_01.png",
+                "quadro_23_balao_02.png",
+                "quadro_23_balao_03.png"
+            ],
+            "personagens": []
+        }
+    ]
+}
